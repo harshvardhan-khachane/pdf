@@ -1,0 +1,30 @@
+{
+  "name": "ANIL JYOTIRAM AHIRE",
+  "designation": "",
+  "department": "",
+  "branch": "GARGI",
+  "gender": "M",
+  "birthDate": "01-06-1974",
+  "pfAccount": "THTHA00252000000010564",
+  "uan": "101125061207",
+  "otHours": "47.00",
+  "daysPresent": "26.00",
+  "pl": "-",
+  "sl": "-",
+  "cl": "-",
+  "ph": "1.00",
+  "woff": "4.00",
+  "basic": "14182.00",
+  "hra": "7091.00",
+  "ma": "9090.00",
+  "ot": "11509.00",
+  "other": "2548.00",
+  "deductions": {
+    "pf": "1800.00",
+    "advance": "5000.00",
+    "pt": "200.00"
+  },
+  "totalEarnings": "44420.00",
+  "totalDeductions": "7000.00",
+  "netPayable": "37420.00"
+}
